@@ -1,0 +1,2 @@
+# Hangman_game_project
+In this repository you will find the most classic Hangman word game: guess the word before the man hangs. Can you guess the correct letters wisely and fast enough?  When you run this python script it will choose a word from the words.txt file. It will show you how many characters are there in this word and asks you to enter a character. You will get 8 chances to guess a right word. your chance will be decremented whenever you guess wrong word. Make sure to put this both file in one directory.
